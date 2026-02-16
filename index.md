@@ -19,7 +19,9 @@ Designed for backend developers transitioning from Python (or other languages) t
 [Solutions](chapter-1-basics/solutions/)
 
 ### Week 2 – Functions, Structs & Packages
-...
+[Study Material](chapter-2-structs-functions/study-material/)  
+[Exercises](chapter-2-structs-functions/exercises/)  
+[Solutions](chapter-2-structs-functions/solutions/)
 
 ---
 
