@@ -469,4 +469,4 @@ By the end of this chapter, the learner should:
 
 ---
 
-# 14. Please check the (Excercises)[excercises.md] for Practice and (Solutions)[solutions.md]
+# 14. Please check the [Excercises](excercises.md) for Practice and [Solutions](solutions.md)
