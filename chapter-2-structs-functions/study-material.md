@@ -468,3 +468,4 @@ By the end of this chapter, the learner should:
 * Follow export conventions
 
 ---
+# 14. Please check the (Excercises)[excercises.md] for Practice and (Solutions)[solutions.md]
