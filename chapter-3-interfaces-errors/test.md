@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chapter 3 - Tests
-parent: Chapter 3 – Interfaces & Error Handling
+parent: Chapters
 nav_order: 5
 ---
 
