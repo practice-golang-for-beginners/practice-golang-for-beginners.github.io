@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study Material
-parent: Chapter 3 – Exercises
+parent: Chapter 3 – Interfaces & Error Handling
 nav_order: 3
 ---
 
