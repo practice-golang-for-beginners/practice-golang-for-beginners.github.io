@@ -1,3 +1,9 @@
+---
+layout: default
+title: Solutions
+parent: Chapter 1 – Basics
+nav_order: 3
+---
 
 # 📘 Chapter 1 – Detailed Solutions
 
