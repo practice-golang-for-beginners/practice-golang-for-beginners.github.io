@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chapter 3 - Detailed Solutions
-parent: Chapter 3 – Interfaces and Errors
+parent: Chapter 3 – Interfaces & Errors
 nav_order: 4
 ---
 
