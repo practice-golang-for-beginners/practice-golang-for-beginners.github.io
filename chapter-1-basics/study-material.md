@@ -1,4 +1,11 @@
-# 📘 Chapter 1 – Go Fundamentals & Tooling
+---
+layout: default
+title: Study Material
+parent: Chapter 1 – Basics
+nav_order: 1
+---
+
+# 📘 Chapter 1 – Go Fundamentals and Tooling
 
 *(Python → Go Transition Guide)*
 
