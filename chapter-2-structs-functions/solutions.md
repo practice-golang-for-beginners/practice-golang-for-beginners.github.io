@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Solutions
+parent: Chapter 2 – Structs & Functions
+nav_order: 3
+---
 
 # 📘 solutions.md
 
