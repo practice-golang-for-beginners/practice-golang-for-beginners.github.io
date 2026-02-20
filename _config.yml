@@ -1,12 +1,15 @@
 title: Practice Golang for Beginners
 description: 8-Week Structured Go Mentorship Roadmap
 author: Aditya Pratap Bhuyan
-theme: minima
 
-markdown: kramdown
-highlighter: rouge
-
-permalink: pretty
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+url: "https://practice-golang-for-beginners.github.io"
+baseurl: ""
+
+search_enabled: true
+heading_anchors: true
+color_scheme: light
