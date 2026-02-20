@@ -1,3 +1,9 @@
+---
+layout: default
+title: Exercises
+parent: Chapter 1 – Basics
+nav_order: 2
+---
 
 # 📘 Chapter 1 – Exercises
 
