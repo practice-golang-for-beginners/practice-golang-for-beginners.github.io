@@ -3,6 +3,7 @@ layout: default
 title: Chapter 3 – Interfaces & Errors
 parent: Chapters
 nav_order: 1
+has_children: true
 ---
 
 
