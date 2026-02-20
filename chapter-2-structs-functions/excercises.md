@@ -1,3 +1,9 @@
+---
+layout: default
+title: Exercises
+parent: Chapter 2 – Structs & Functions
+nav_order: 2
+---
 
 # 📘 exercises.md
 
