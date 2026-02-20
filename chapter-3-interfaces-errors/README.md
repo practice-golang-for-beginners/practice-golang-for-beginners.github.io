@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 3 – Interfaces & Error Handling
+title: Chapter 3 – Interfaces & Errors
 parent: Chapters
 nav_order: 1
 ---
