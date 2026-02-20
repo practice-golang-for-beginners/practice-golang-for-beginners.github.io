@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 3 – Interfaces & Error Handling
-parent: Chapter 3 – Interfaces & Error Handling
+parent: Chapters
 nav_order: 1
 ---
 
