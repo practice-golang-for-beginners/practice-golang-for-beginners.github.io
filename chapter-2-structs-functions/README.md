@@ -2,7 +2,7 @@
 layout: default
 title: Chapter 2 – Structs & Functions
 parent: Chapters
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 
