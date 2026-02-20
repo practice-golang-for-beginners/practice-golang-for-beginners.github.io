@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study Material
-parent: Chapter 3 – Interfaces and Errors
+parent: Chapter 3 – Interfaces & Errors
 nav_order: 2
 ---
 
