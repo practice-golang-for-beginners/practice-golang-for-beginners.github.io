@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Study Material
+parent: Chapter 2 – Structs & Functions
+nav_order: 1
+---
 
 # Chapter 2: Functions, Structs & Packages
 
