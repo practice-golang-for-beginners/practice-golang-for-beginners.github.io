@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 3 - Tests
+title: Test Cases
 parent: Chapter 3 – Interfaces & Errors
 nav_order: 5
 ---
