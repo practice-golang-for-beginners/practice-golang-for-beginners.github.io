@@ -15,22 +15,22 @@ Designed for backend developers transitioning from Python (or other languages) t
 ## 📚 Curriculum
 
 ### Week 1 – Go Basics & Tooling
-[Study Material](chapter-1-basics/study-material/)  
-[Exercises](chapter-1-basics/exercises/)  
-[Solutions](chapter-1-basics/solutions/)
-[Test Cases](chapter-1-basics/test/)
+- [Study Material](chapter-1-basics/study-material/)  
+- [Exercises](chapter-1-basics/exercises/)  
+- [Solutions](chapter-1-basics/solutions/)
+- [Test Cases](chapter-1-basics/test/)
 
 ### Week 2 – Functions, Structs & Packages
-[Study Material](chapter-2-structs-functions/study-material/)  
-[Exercises](chapter-2-structs-functions/exercises/)  
-[Solutions](chapter-2-structs-functions/solutions/)
-[Test Cases](chapter-2-structs-functions/test/)
+- [Study Material](chapter-2-structs-functions/study-material/)  
+- [Exercises](chapter-2-structs-functions/exercises/)  
+- [Solutions](chapter-2-structs-functions/solutions/)
+- [Test Cases](chapter-2-structs-functions/test/)
 
 ### Week 3 – Interface and Errors
-[Study Material](chapter-3-interface-errors/study-material/)  
-[Exercises](chapter-3-interface-errors/exercises/)  
-[Solutions](chapter-3-interface-errors/solutions/)
-[Test Cases](chapter-3-interface-errors/test/)
+- [Study Material](chapter-3-interface-errors/study-material/)  
+- [Exercises](chapter-3-interface-errors/exercises/)  
+- [Solutions](chapter-3-interface-errors/solutions/)
+- [Test Cases](chapter-3-interface-errors/test/)
 
 ---
 
