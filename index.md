@@ -32,6 +32,13 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Solutions](chapter-3-interface-errors/solutions/)
 - [Test Cases](chapter-3-interface-errors/test/)
 
+### Chapter 4 – Collections, Pointers & Memory
+- [Study Material](chapter-4-collections-pointers/study-material/)  
+- [Exercises](chapter-4-collections-pointers/exercises/)  
+- [Solutions](chapter-4-collections-pointers/solutions/)
+- [Test Cases](chapter-4-collections-pointers/test/)
+
+
 ---
 
 ## 👨‍🏫 Maintainer
