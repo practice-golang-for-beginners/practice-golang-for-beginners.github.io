@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study Material – Concurrency in Go
-parent: Chapter 5 – Concurrency: Goroutines & Channels
+parent: "Chapter 5 – Concurrency: Goroutines & Channels"
 nav_order: 1
 ---
 
