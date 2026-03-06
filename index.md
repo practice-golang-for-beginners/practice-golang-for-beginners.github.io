@@ -20,6 +20,7 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Solutions](chapter-1-basics/solutions/)
 - [Test Cases](chapter-1-basics/test/)
 - [Assessment](chapter-1-basics/assessment/)
+- [Questions](chapter-1-basics/week-1-questions)
 
 ### Week 2 – Functions, Structs & Packages
 - [Study Material](chapter-2-structs-functions/study-material/)  
@@ -27,6 +28,7 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Solutions](chapter-2-structs-functions/solutions/)
 - [Test Cases](chapter-2-structs-functions/test/)
 - [Assessment](chapter-2-structs-functions/assessment/)
+- [Questions](chapter-2-structs-functions/week-2-questions)
 
 ### Week 3 – Interface and Errors
 - [Study Material](chapter-3-interface-errors/study-material/)  
@@ -34,6 +36,7 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Solutions](chapter-3-interface-errors/solutions/)
 - [Test Cases](chapter-3-interface-errors/test/)
 - [Assessment](chapter-3-interface-errors/assessment/)
+- [Questions](chapter-3-interface-errors/week-3-questions)
 
 ### Chapter 4 – Collections, Pointers & Memory
 - [Study Material](chapter-4-collections-pointers/study-material/)  
@@ -41,6 +44,16 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Solutions](chapter-4-collections-pointers/solutions/)
 - [Test Cases](chapter-4-collections-pointers/test/)
 - [Assessment](chapter-4-collections-pointers/assessment/)
+- [Questions](chapter-4-collections-pointers/week-4-questions)
+
+### "Chapter 5 – Concurrency: Goroutines & Channels"
+- [Study Material](chapter-5-concurrency/study-material/)  
+- [Exercises](chapter-5-concurrency/exercises/)  
+- [Solutions](chapter-5-concurrency/solutions/)
+- [Test Cases](chapter-5-concurrency/test/)
+- [Assessment](chapter-5-concurrency/assessment/)
+- [Questions](chapter-5-concurrency/week-5-questions)
+- [Mini Project](chapter-5-concurrency/mini-project)
 
 
 ---
