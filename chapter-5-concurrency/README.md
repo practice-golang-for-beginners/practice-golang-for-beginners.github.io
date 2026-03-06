@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 5 – Concurrency: Goroutines & Channels
+title: "Chapter 5 – Concurrency: Goroutines & Channels"
 parent: Chapters
 nav_order: 5
 has_children: true
