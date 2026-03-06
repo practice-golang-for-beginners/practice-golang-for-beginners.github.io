@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Exercises
 parent: "Chapter 5 – Concurrency: Goroutines & Channels"
