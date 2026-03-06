@@ -6,8 +6,6 @@ nav_order: 5
 has_children: true
 ---
 
-# Chapter 5 – Concurrency: Goroutines & Channels
-
 Concurrency is one of the most powerful and defining features of the Go programming language. Unlike many traditional languages where concurrency is complex and error-prone, Go provides a simple and elegant model based on **goroutines** and **channels**.
 
 This chapter introduces Go’s concurrency model and helps build the mental framework required to design concurrent systems effectively.
