@@ -46,7 +46,7 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Assessment](chapter-4-collections-pointers/assessment/)
 - [Questions](chapter-4-collections-pointers/week-4-questions)
 
-### "Chapter 5 – Concurrency: Goroutines & Channels"
+### Chapter 5 – Concurrency: Goroutines & Channels
 - [Study Material](chapter-5-concurrency/study-material/)  
 - [Exercises](chapter-5-concurrency/exercises/)  
 - [Solutions](chapter-5-concurrency/solutions/)
@@ -55,7 +55,7 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Questions](chapter-5-concurrency/week-5-questions)
 - [Mini Project](chapter-5-concurrency/mini-project)
 
-### "Chapter 6 – Context, Timeouts & Cancellation"
+### Chapter 6 – Context, Timeouts & Cancellation
 - [Study Material](chapter-6-context-timeouts/study-material/)  
 - [Exercises](chapter-6-context-timeouts/exercises/)  
 - [Solutions](chapter-6-context-timeouts/solutions/)
