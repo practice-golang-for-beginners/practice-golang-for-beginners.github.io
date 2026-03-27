@@ -55,6 +55,15 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Questions](chapter-5-concurrency/week-5-questions)
 - [Mini Project](chapter-5-concurrency/mini-project)
 
+### "Chapter 6 – Context, Timeouts & Cancellation"
+- [Study Material](chapter-6-context-timeouts/study-material/)  
+- [Exercises](chapter-6-context-timeouts/exercises/)  
+- [Solutions](chapter-6-context-timeouts/solutions/)
+- [Test Cases](chapter-6-context-timeouts/test/)
+- [Assessment](chapter-6-context-timeouts/assessment/)
+- [Questions](chapter-6-context-timeouts/week-6-questions)
+- [Mini Project](chapter-6-context-timeouts/mini-project)
+
 
 ---
 
