@@ -64,6 +64,14 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Questions](chapter-6-context-timeouts/week-6-questions)
 - [Mini Project](chapter-6-context-timeouts/mini-project)
 
+### Chapter 7 – HTTP Services
+- [Study Material](chapter-7-http-services/study-material/)  
+- [Exercises](chapter-7-http-services/exercises/)  
+- [Solutions](chapter-7-http-services/solutions/)
+- [Test Cases](chapter-7-http-services/test/)
+- [Assessment](chapter-7-http-services/assessment/)
+- [Questions](chapter-7-http-services/week-7-questions)
+- [Mini Project](chapter-7-http-services/mini-project)
 
 ---
 
