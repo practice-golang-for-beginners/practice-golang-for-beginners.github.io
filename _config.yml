@@ -10,6 +10,8 @@ plugins:
 url: "https://practice-golang-for-beginners.github.io"
 baseurl: ""
 
+permalink: pretty
+
 search_enabled: true
 heading_anchors: true
 color_scheme: light
