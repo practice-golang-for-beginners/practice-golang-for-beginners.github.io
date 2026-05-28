@@ -79,7 +79,7 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Solutions](chapter-8-production-ready/solutions/)
 - [Test Cases](chapter-8-production-ready/test/)
 - [Assessment](chapter-8-production-ready/assessment/)
-- [Questions](chapter-8-production-ready/week-7-questions)
+- [Questions](chapter-8-production-ready/week-8-questions)
 - [Mini Project](chapter-8-production-ready/mini-project)
 
 ---
