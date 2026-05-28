@@ -73,6 +73,15 @@ Designed for backend developers transitioning from Python (or other languages) t
 - [Questions](chapter-7-http-services/week-7-questions)
 - [Mini Project](chapter-7-http-services/mini-project)
 
+### Chapter 8 – Production Readiness
+- [Study Material](chapter-8-production-ready/study-material/)  
+- [Exercises](chapter-8-production-ready/exercises/)  
+- [Solutions](chapter-8-production-ready/solutions/)
+- [Test Cases](chapter-8-production-ready/test/)
+- [Assessment](chapter-8-production-ready/assessment/)
+- [Questions](chapter-8-production-ready/week-7-questions)
+- [Mini Project](chapter-8-production-ready/mini-project)
+
 ---
 
 ## 👨‍🏫 Maintainer
